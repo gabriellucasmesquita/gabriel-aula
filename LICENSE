@@ -1,4 +1,5 @@
-PROJETO 1
+PROJETO 1 HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,5 +21,13 @@ PROJETO 1
 </body>
 </html>
 
+PROJETO 1 CSS
 
-PROJETO 2 
+header {
+    background-color: #424E61;
+    color: white;
+}
+
+PROJETO 2 HTML
+
+
