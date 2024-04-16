@@ -1,4 +1,4 @@
-PROJETO 1 HTML
+                                                                                        PROJETO 1 HTML
 
 <!DOCTYPE html>
 <html lang="en">
@@ -21,13 +21,45 @@ PROJETO 1 HTML
 </body>
 </html>
 
-PROJETO 1 CSS
+                                                                                             PROJETO 1 CSS
 
 header {
     background-color: #424E61;
     color: white;
 }
 
-PROJETO 2 HTML
+                                                                                            PROJETO 2 HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul>
+    </header>
+</body>
+</html>
+
+</body>
+</html>
+
+                                                                                            PROJETO 2 CSS
 
 
